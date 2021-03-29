@@ -15,7 +15,7 @@
 },
 "autoload": {
 "psr-4": {
-"Namnguyen231\\Namweek3\\": "/"
+"D:\\": "/"
 }
 },
 "minimum-stability": "dev"
