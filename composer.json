@@ -1,0 +1,22 @@
+{
+"name": "namnguyen231/namweek3",
+"description": "Create text",
+"keywords": [
+],
+"authors": [
+{
+"name": "namnguyen231",
+"email": "nguyenphuongnam.tdc2019@gmail.com",
+"homepage": "http://namnguyen231.com"
+}
+],
+"license": "MIT",
+"require": {
+},
+"autoload": {
+"psr-4": {
+"Namnguyen231\\Namweek3\\": "/"
+}
+},
+"minimum-stability": "dev"
+}
